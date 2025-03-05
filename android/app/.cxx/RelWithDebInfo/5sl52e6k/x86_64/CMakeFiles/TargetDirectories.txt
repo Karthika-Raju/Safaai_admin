@@ -1,0 +1,2 @@
+D:/safaai_admin_app/android/app/.cxx/RelWithDebInfo/5sl52e6k/x86_64/CMakeFiles/edit_cache.dir
+D:/safaai_admin_app/android/app/.cxx/RelWithDebInfo/5sl52e6k/x86_64/CMakeFiles/rebuild_cache.dir
